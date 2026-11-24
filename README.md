@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Camila! 👋
 
-<!--
-**camilasantosf90-cmd/camilasantosf90-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Data Annotator | AI Response Evaluator | Brazilian Portuguese Language Specialist
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Brazilian Portuguese language specialist interested in Artificial Intelligence, Large Language Models (LLMs), and AI training.
+
+My work and interests focus on evaluating AI-generated content, linguistic quality, and improving the reliability of AI systems through careful analysis and data annotation.
+
+### 💡 Core Skills
+
+- AI Response Evaluation
+- Data Annotation and Labeling
+- Brazilian Portuguese Linguistic Analysis
+- LLM Output Quality Assessment
+- Translation and Localization (EN-US → PT-BR)
+- Content Relevance and Accuracy
+- Instruction Following and Quality Review
+- Attention to Detail
+
+### 🌎 Languages
+
+- Portuguese (Brazil): Native
+- English: B2 – Upper-Intermediate
+
+### 🚀 Areas of Interest
+
+- Artificial Intelligence
+- Large Language Models (LLMs)
+- AI Model Training
+- Natural Language Processing (NLP)
+- Multilingual AI Evaluation
+- Linguistic Quality Assurance
+
+### 📂 Portfolio
+
+I'm building this space to showcase practical examples of AI response evaluation, linguistic analysis, annotation workflows, and quality assessment.
+
+### 🤝 Let's Connect!
+
+Open to international opportunities in AI evaluation, data annotation, and language-related AI projects.
+
+
+
